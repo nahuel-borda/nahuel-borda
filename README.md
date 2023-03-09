@@ -9,7 +9,7 @@ I have +6 years of experience as Full Stack Developer using HTML, CSS, Javascrip
 
 #### Website
 
-There are some live demos of personal projects in my [personal website](https://nahuel-borda.github.io/).  
+There are some live demos of personal projects in my [personal website](https://nahuel-borda.github.io/), as well as a link to my CV.
 
 #### Contact Me
 You can contact me through [LinkedIn](https://www.linkedin.com/in/nahuel-borda), [my website](https://nahuel-borda.github.io/)
