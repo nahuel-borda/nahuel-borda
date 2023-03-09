@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello world 👋
 
-<!--
-**nahuel-borda/nahuel-borda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Full-Stack Developer by day
 
-Here are some ideas to get you started:
+Hello world! My name is Nahuel Borda and I'm a Software Engineer, CS Bachelor, and proud protector of Eros, my puppy.
+I'm from Argentina, living in Córdoba.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have +6 years of experience as Full Stack Developer using HTML, CSS, Javascript, Python, Django, React.js, Docker, GCP, Kubernetes, and UNIX systems. I've worked in many types of software related projects, such as e-commerce, IoT, marketing and big data. I'm currently looking for new projects.
+
+#### Contact Me
+You can contact me through [LinkedIn](https://www.linkedin.com/in/nahuel-borda)
+as well as by [email](bordanah@gmail.com)
+
