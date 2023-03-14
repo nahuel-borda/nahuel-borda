@@ -7,7 +7,7 @@ I'm from Argentina, living in Córdoba.
 
 I have +6 years of experience as Full Stack Developer using HTML, CSS, Javascript, Python, Django, React.js, Docker, GCP, Kubernetes, and UNIX systems. I've worked in many types of software related projects, such as e-commerce, IoT, marketing and big data. I'm currently looking for new projects.
 
-#### Website
+#### Live Demos
 
 There are some live demos of personal projects in my [personal website](https://nahuel-borda.github.io/), as well as a link to my CV.
 
