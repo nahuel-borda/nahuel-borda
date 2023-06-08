@@ -13,7 +13,7 @@ There are some live demos of personal projects in my [personal website](https://
 
 #### Contact Me
 You can contact me through [LinkedIn](https://www.linkedin.com/in/nahuel-borda), [my website](https://nahuel-borda.github.io/)
-and by [email](bordanah@gmail.com)
+and by [email](mailto:bordanah@gmail.com)
 
  
 
